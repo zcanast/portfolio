@@ -21,10 +21,10 @@ PS: If you liked the theme, do star it on GitHub!
 - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
  -->
 
- Hello, my name is Zoey!
+Hello, my name is Zoey!
 
- I graduated from the University of Maryland in 2023 with a B.S. in Information Science. Currently, I am working at Stanley Black & Decker, Inc. in their Stanley Leadership Program (SLP) - Information Technology. This is a 2 year long program in which I will rotate through 3 different IT positions.
+I graduated from the `University of Maryland` in 2023 with a B.S. in Information Science. Currently, I am working at `Stanley Black & Decker, Inc.` in their Stanley Leadership Program (SLP) - Information Technology. This is a 2 year long program in which I will rotate through 3 different IT positions.
 
- ### Also, check out:
+### Also, check out:
 
 - [my resume](https://zcanast.github.io/resume/cv.pdf)
