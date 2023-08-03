@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+<!-- [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
 If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
@@ -19,3 +19,8 @@ PS: If you liked the theme, do star it on GitHub!
 
 - [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
 - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+ -->
+
+ Hello, my name is Zoey!
+
+ I graduated from the University of Maryland in 2023 with a B.S. in Information Science. Currently, I am working at Stanley Black & Decker, Inc. in their Stanley Leadership Program (SLP) - Information Technology. This is a 2 year long program in which I will rotate through 3 different IT positions.
