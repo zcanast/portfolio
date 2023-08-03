@@ -1,11 +1,11 @@
-### your site title here
+### zcanast
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Zoey Anastasiadis
+description: subtitle | UMD | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /portfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: zcanast@gmail.com#
 
 # Pagination
 paginate: 4
@@ -13,14 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
+twitter: "#zcanast"
+linkedin: "#zoey-anastasiadis"
+github: "#zcanast"
+instagram: "#zcanast"
 facebook: "#"
 
 
