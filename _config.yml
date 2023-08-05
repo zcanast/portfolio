@@ -5,7 +5,7 @@ title: Zoey Anastasiadis
 
 baseurl: /portfolio #name of GitHub repository
 url: "https://zcanast.github.io" #custom url to be used instead of GitHub repository
-email: zcanast@gmail.com#
+email: zcanast@gmail.com
 
 # Pagination
 paginate: 4
