@@ -1,4 +1,4 @@
-# Gradfolio
+<!-- # Gradfolio
 
 responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
 
@@ -25,4 +25,4 @@ Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips
 - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
 
 
-PS: If you liked the theme, do star :star: it! Thanks!
+PS: If you liked the theme, do star :star: it! Thanks! -->
