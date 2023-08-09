@@ -27,4 +27,4 @@ I graduated from the `University of Maryland` in 2023 with a B.S. in Information
 
 ### Also, check out:
 
-- [my resume](https://zcanast.github.io/resume/cv.pdf)
+- [my cv](https://zcanast.github.io/resume/cv.pdf)
