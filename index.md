@@ -27,4 +27,4 @@ I am a graduate of the `University of Maryland` with a B.S. in Information Scien
 
 ### Check out my resume:
 
-- [my resume]([https://zcanast.github.io/resume/zoey-anastasiadis-resume.pdf])
+- [my resume](https://zcanast.github.io/resume/zoey-anastasiadis-resume.pdf)
