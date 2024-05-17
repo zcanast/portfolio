@@ -25,6 +25,6 @@ Hello, my name is Zoey!
 
 I am a graduate of the `University of Maryland` with a B.S. in Information Science. Currently, I am a working at `Stanley Black & Decker` as part of their Stanley Leadership Program (SLP), where I'm gaining valuable experience in various IT roles. This is a two year long rotational program in which I will rotate through 4 different IT roles lasting 6 months each. I started as a Process Analyst in IT Process and am now an Architecture Process Engineer in Enterprise Architecture, with two more rotations to go. I'm passionate about leveraging technology to drive innovation and to create meaningful change for businesses and communities alike.
 
-### Check out my CV:
+### Check out my resume:
 
-- [my cv](https://zcanast.github.io/resume/cv.pdf)
+- [my resume]([https://zcanast.github.io/resume/cv.pdf](https://zcanast.github.io/resume/resume.pdf))
